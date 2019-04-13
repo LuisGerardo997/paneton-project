@@ -13,4 +13,4 @@ class Server{
 
     }
 }
-const server = new Server();
+new Server();

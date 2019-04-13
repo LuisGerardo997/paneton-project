@@ -16,4 +16,4 @@ class Server {
     routes() {
     }
 }
-const server = new Server();
+new Server();
